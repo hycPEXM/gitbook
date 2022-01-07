@@ -1,0 +1,44 @@
+{
+	"title": "hyc notes",
+	"links": {
+        "sidebar": {
+            "Home": "https://hycpexm.github.io"
+        }
+    },
+	"author":"hyc",
+	"plugins" : [
+		"expandable-chapters",
+		"copy-code-button",
+		"github-buttons",
+		"page-footer-ex",
+		"anchor-navigation-ex",
+		"expandable-chapters-small",
+		"prism", 
+		"-highlight",
+		"-lunr", 
+		"-search", 
+		"search-pro",
+		"splitter"
+	],
+	"pluginsConfig": {	
+		"github-buttons": {
+			"buttons": [{
+				"user": "wangzhebufangqi",
+				"repo": "ActionTest",
+				"type": "star",
+				"size": "small"
+			}]
+		},
+		"page-footer-ex": {
+            "copyright": "使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+            "markdown": true,
+            "update_label": "<i>updated</i>",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
+		},	
+		"prism": {
+			"css": ["prismjs/themes/prism-solarizedlight.css"],
+			"lang": {"flow": "typescript"}
+		}
+	},
+	"ignores" : ["_book", "node_modules"]
+}
