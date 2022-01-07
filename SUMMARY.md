@@ -8,6 +8,6 @@
     * [2.Add Two Numbers](medium/2.Add Two Numbers.md)
     * [3.Longest Substring Without Repeating Characters](medium/3.Longest Substring Without Repeating Characters.md)
     * [test 1](medium/test1.md)
-    * test
-        * test2
+    * [test](medium/test/README.md)
+        * [test2](medium/test/test2.md)
 
