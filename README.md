@@ -50,3 +50,25 @@ Error: Missing required argument #1
 }
 ```
 
+解决方法：
+
+1. `npm install mathjax@2.7.7 -g`
+
+2. 在项目文件夹`npm install mathjax@2.7.7`
+
+3. npm下载插件：`npm i gitbook-plugin-mathjax-pro `
+
+4. 在book.json中写入mathjax-pro的配置
+
+   ```json
+   {
+       "plugins": ["mathjax-pro"]
+   }
+   ```
+
+5. `gitbook install`
+
+但是显示效果不太好，最后改用'katex-plus'插件来代替，虽然它无法识别所有latex语法
+
+
+
