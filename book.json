@@ -1,8 +1,9 @@
 {
-	"title": "hyc notes",
+	"title": "hyc_notes",
 	"links": {
         "sidebar": {
-            "Home": "https://hycpexm.github.io"
+            "Home": "https://hycpexm.github.io",
+			"hycPEXM Github": "https://github.com/hycPEXM"
         }
     },
 	"author":"hyc",
@@ -18,7 +19,9 @@
 		"-lunr", 
 		"-search", 
 		"search-pro",
-		"splitter"
+		"splitter",
+		"image-captions",
+		"katex"
 	],
 	"pluginsConfig": {	
 		"github-buttons": {
@@ -34,11 +37,27 @@
             "markdown": true,
             "update_label": "<i>updated</i>",
             "update_format": "YYYY-MM-DD HH:mm:ss"
-		},	
+		},
+			
+		"image-captions": {
+          "caption": "Image _PAGE_IMAGE_NUMBER_ : _CAPTION_"
+		},
+		
 		"prism": {
 			"css": ["prismjs/themes/prism-solarizedlight.css"],
 			"lang": {"flow": "typescript"}
-		}
-	},
+		},
+		
+		"anchor-navigation-ex": {
+		"showLevel": true,
+		"associatedWithSummary": true,
+		"multipleH1": false
+		},
+		
+		"theme-default": {
+            "showLevel": false
+        }
+		
+	},	
 	"ignores" : ["_book", "node_modules"]
 }

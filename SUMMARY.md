@@ -1,13 +1,19 @@
 # Summary
 
 * [Introduction](README.md)
-* [Easy](easy/README.md)
-    * [1.Two Sum](easy/1.Two Sum.md)
-    * [7.Reverse Integer](easy/7.Reverse Integer.md)
-* [Medium](medium/README.md)
-    * [2.Add Two Numbers](medium/2.Add Two Numbers.md)
-    * [3.Longest Substring Without Repeating Characters](medium/3.Longest Substring Without Repeating Characters.md)
-    * [test 1](medium/test1.md)
-    * [test](medium/test/README.md)
-        * [test2](medium/test/test2.md)
+* [AI](AI/README.md)
+* [C/CPP](C&CPP/README.md)
+* [CS](CS/README.md)
+* [English](English/README.md)
+    * [Useful Phrases And Technical Term](English/useful phrases and technical term.md)
+* [Git](Git/README.md)
+* [Linux](Linux/README.md)
+    * [1. test](Linux/1. test.md)
+* [Mathematica](Mathematica/README.md)
+* [Matlab](Matlab/README.md)
+* [Python](Python/README.md)
+* [Weekly Reports](Weekly Reports/README.md)
+    * 2022年
+        * [2022-01-09](Weekly Reports/2022年/2022-01-09.md)
+* [嵌入式](嵌入式/README.md)
 
