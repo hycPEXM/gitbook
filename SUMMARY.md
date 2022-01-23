@@ -15,5 +15,6 @@
 * [Weekly Reports](Weekly Reports/README.md)
     * 2022年
         * [2022-01-09](Weekly Reports/2022年/2022-01-09.md)
+        * [2022-01-23](Weekly Reports/2022年/2022-01-23.md)
 * [嵌入式](嵌入式/README.md)
 

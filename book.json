@@ -54,6 +54,10 @@
 		"multipleH1": false
 		},
 		
+		"fontsettings": { 
+            "size": 3        
+        },
+		
 		"theme-default": {
             "showLevel": false
         }
