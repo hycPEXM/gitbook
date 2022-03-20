@@ -19,7 +19,6 @@ gitbook for Github Pages(https://hycpexm.github.io/gitbook/)
 "theme-default": {
              "showLevel": true
         }
-	}
 ```
 
 为什么每一章的起始编号都是1？
